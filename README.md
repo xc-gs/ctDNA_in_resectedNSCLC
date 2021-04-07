@@ -1,5 +1,5 @@
 # ctDNA_in_resectedNSCLC
-Reference manuscripts for research article 'Circulating tumor DNA as markers of dynamic recurrence risk and adjuvant chemotherapy benefit in resected non-small cell lung cancer'
+Reference scripts for research article 'Circulating tumor DNA as markers of dynamic recurrence risk and adjuvant chemotherapy benefit in resected non-small cell lung cancer'
 
 ## run 
 All analysis are running under R version 4.0.2
